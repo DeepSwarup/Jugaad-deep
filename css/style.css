@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+
+/* home */
+
+#home{
+    display: flex;
+    
+}
+
+.home-content{
+   margin-top: 50px;
+    width: 785px;
+    text-align: center;
+
+}
+
+.home-content h1{
+    font-size: 6rem;
+}
+
+.home-content p{
+    font-size: 1.5rem;
+}
+
+.img{
+    margin-top: 50px;
+}
+
+/* about section  */
+
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 70px;
+    padding: 10px;
+}
+
+.title{
+    font-size: 2.5rem;
+}
+
+.title p{
+    display: inline;
+    color: white;
+}
+
+.about-content{
+    margin: 15px;
+}
+
+/* registration-section */
+
+.container-reg{
+    /* background-color: #ffffff; */
+    text-align: center;
+    margin-top: 20px;
+    padding: 35px 20px;
+}
+
+.container-reg .exform {
+    width: 50%;
+    margin: 0px auto;
+    border-radius: 30px;
+}
+
+.container-reg .form-control{
+    width: 100%;
+    margin: 30px auto;
+    border-radius: 30px;
+}
+
+
+/* sponsors-section */
+
+.sponsor-section{
+    margin-top: 50px;
+}
+
+#sponsor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 68px
+}
+
+#spons{
+    font-size: 2rem;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.sponsor-item {
+    margin: 15px;
+}
+
+#sponsor img {
+    height: 130px;
+}
+
+
