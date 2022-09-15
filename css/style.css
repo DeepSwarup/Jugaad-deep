@@ -76,6 +76,19 @@
     border-radius: 30px;
 }
 
+#checkbox{
+    margin: 8px;
+}
+.checkbox{
+    margin: 20px;
+}
+
+.checkbox p{
+    display: inline;
+    text-align: center;
+}
+
+
 
 /* sponsors-section */
 
@@ -97,7 +110,7 @@
 }
 
 .sponsor-item {
-    margin: 15px;
+    margin: 10px;
 }
 
 #sponsor img {
